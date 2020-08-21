@@ -1,0 +1,13 @@
+.text {
+    text-align: center;
+    flex-direction: column;
+}
+
+#heading {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+    flex-direction: column;
+}
